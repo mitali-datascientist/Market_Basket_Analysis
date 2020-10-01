@@ -13,3 +13,4 @@ Apriori algorithm makes use of Association Rule Mining whereby it finds the corr
 This can help one to understand the market, demand and what is being liked or disliked in the market and devise strategies accordingly. 
 
 Further, such can be used by restaurants while they give combo offers on Zomato and other such apps. 
+In this Analytics I use Python to exploratory data analysis.
